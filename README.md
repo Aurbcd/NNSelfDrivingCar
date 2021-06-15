@@ -7,7 +7,13 @@ Once every car of the population has gain its fitness, we keep the best ones, se
 This is repeated for a number of iterations called "Generations".
 
 ## Results
+This figure shows the evolution of the best fitness achieved according to the generation, until the best fitness possible is reached.
+![](plot.png)
 
+Here is a [video](https://www.youtube.com/watch?v=EZHOONPLUZg) showing different generation.<br/>
+![Alt Text](1-10.gif)
+![Alt Text](15-25.gif)
+![Alt Text](34.gif)
 
 ## Requirements
 You need Unity3D to use this project.
