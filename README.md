@@ -10,7 +10,7 @@ This is repeated for a number of iterations called "Generations".
 This figure shows the evolution of the best fitness achieved according to the generation, until the best fitness possible is reached.
 ![](plot.png)
 
-Here is a [video](http://www.youtube.com/) showing different generation.
+Here is a [video](http://www.youtube.com/) showing different generation.<br/>
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Requirements
