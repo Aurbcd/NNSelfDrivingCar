@@ -7,7 +7,7 @@ Once every car of the population has gain its fitness, we keep the best ones, se
 This is repeated for a number of iterations called "Generations".
 
 ## Results
-This figure shows the evolution of the best fitness achieved according to the generation, until the best fitness possible is reached at generation 34.
+This figure shows the evolution of the best fitness achieved according to the generation, until the best fitness possible is reached.
 ![](Plot.png)
 
 Here is a [video](https://www.youtube.com/watch?v=EZHOONPLUZg) showing different generation :<br/>
@@ -22,4 +22,4 @@ A great example of AI being smarter than the circuit builder.
 Unity3D is required to use this project.
 
 ## Contact
-For any remarks or problem, contact me at: <contact.keyofmagic@gmail.com>
+For any remarks or issues, contact me at: <contact.keyofmagic@gmail.com>
