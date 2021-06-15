@@ -8,7 +8,7 @@ This is repeated for a number of iterations called "Generations".
 
 ## Results
 This figure shows the evolution of the best fitness achieved according to the generation, until the best fitness possible is reached.
-![](plot.png)
+![](Plot.png)
 
 Here is a [video](https://www.youtube.com/watch?v=EZHOONPLUZg) showing different generation :<br/>
 <br/>
