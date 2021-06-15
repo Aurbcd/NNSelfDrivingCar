@@ -12,7 +12,7 @@ This figure shows the evolution of the best fitness achieved according to the ge
 
 Here is a [video](https://www.youtube.com/watch?v=EZHOONPLUZg) showing different generation.<br/>
 ![Alt Text](1-10.gif)
-![Alt Text](15-25.gif)
+![Alt Text](20-25.gif)
 ![Alt Text](34.gif)
 
 ## Requirements
